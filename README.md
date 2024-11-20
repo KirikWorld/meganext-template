@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Generate TSOA spec and routes with: 
+```bash
+npm exec tsoa spec-and-routes
+```
+
+
+
 First, run the development server:
 
 ```bash
